@@ -79,3 +79,40 @@ Broad classification of the reason for churn (e.g., Price, Service Issues, Compe
 
 ### **Churn_Reason:**
 Provides detailed explanations for why the customer discontinued the service.
+
+## **Data Summary**
+
+- **Age**
+  - **Range:** 18.00 – 85.00
+  - **Mean:** 47.07
+  - **Standard Deviation:** 16.70
+
+- **Number_of_Referrals**
+  - **Range:** 0.00 – 15.00
+  - **Mean:** 7.43
+  - **Standard Deviation:** 4.62
+
+- **Tenure_in_Months**
+  - **Range:** 1.00 – 36.00
+  - **Mean:** 17.34
+  - **Standard Deviation:** 10.58
+
+- **Monthly_Charge**
+  - **Range:** -10.00 – 118.75
+  - **Mean:** 63.65
+  - **Standard Deviation:** 31.19
+
+- **Total_Charges**
+  - **Range:** 18.80 – 8684.80
+  - **Mean:** 2280.37
+  - **Standard Deviation:** 2268.05
+
+- **Total_Refunds**
+  - **Range:** 0.00 – 49.79
+  - **Mean:** 1.92
+  - **Standard Deviation:** 7.85
+
+- **Total_Revenue**
+  - **Range:** 21.36 – 11979.34
+  - **Mean:** 3033.87
+  - **Standard Deviation:** 2866.51
